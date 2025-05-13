@@ -10,10 +10,15 @@ Aplikasi backend Laravel dengan fitur:
 - PHP 8.x
 - Laravel 10.x
 - JWT Authentication
-- MySQL
+- Laravel/Sail
+- Postgresql
+- Docker
 
 ## Instalasi
 1. Clone repository:
 ```bash
-git clone [repo-url]
+git clone [https://github.com/vcode-10/backend-app.git]
 cd Vidi_Test_Pijar/backend-app
+- ./vendor/bin/sail up -d
+- 
+
